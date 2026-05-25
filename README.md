@@ -42,7 +42,7 @@
 点任意一个按钮,进入下一个词条。形成无限漫游。
 
 <p align="center">
-  <a href="https://github.com/huangyixinrose/interactive-encyclopedia/blob/main/assets/demo.mov">▶ 观看 demo 演示视频</a>
+  <a href="https://github.com/huangyixinrose/skill-interactive-encyclopedia/blob/main/assets/demo.mov">▶ 观看 demo 演示视频</a>
 </p>
 
 ## 安装
@@ -52,13 +52,13 @@
 ```bash
 mkdir -p ~/.claude/skills/interactive-encyclopedia
 curl -o ~/.claude/skills/interactive-encyclopedia/SKILL.md \
-  https://raw.githubusercontent.com/huangyixinrose/interactive-encyclopedia/main/SKILL.md
+  https://raw.githubusercontent.com/huangyixinrose/skill-interactive-encyclopedia/main/SKILL.md
 ```
 
 或者 clone 整个仓库：
 
 ```bash
-git clone https://github.com/huangyixinrose/interactive-encyclopedia.git \
+git clone https://github.com/huangyixinrose/skill-interactive-encyclopedia.git \
   ~/.claude/skills/interactive-encyclopedia
 ```
 
